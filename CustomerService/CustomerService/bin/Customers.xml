@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomersCollection>
+  <Customers>
+    <Customer>
+      <Name>5565uu</Name>
+      <DateOfBirth>2018-05-23T22:42:00.0000000+05:30</DateOfBirth>
+      <Age>5</Age>
+      <Address>yrty</Address>
+    </Customer>
+    <Customer>
+      <Name>srt</Name>
+      <DateOfBirth>2018-05-25</DateOfBirth>
+      <Age>0</Age>
+      <Address>ere</Address>
+    </Customer>
+  </Customers>
+</CustomersCollection>

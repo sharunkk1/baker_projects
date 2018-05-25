@@ -1,0 +1,46 @@
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.exe.config
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.csprojResolveAssemblyReference.cache
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\Views\MainWindow.g.cs
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\App.g.cs
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication_MarkupCompile.cache
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication_MarkupCompile.lref
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.exe
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.pdb
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\Views\MainWindow.baml
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.g.resources
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.Properties.Resources.resources
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.csproj.GenerateResource.Cache
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.exe
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.pdb
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\Prism.dll
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\Prism.Wpf.dll
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\System.Windows.Interactivity.dll
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\Prism.xml
+c:\users\sharun\documents\visual studio 2013\Projects\CustomerApplication\CustomerApplication\bin\Debug\Prism.Wpf.xml
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.exe.config
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.exe
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.pdb
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.exe
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\CustomerApplication.pdb
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\Prism.dll
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\Prism.Wpf.dll
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\Prism.xml
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\bin\Debug\Prism.Wpf.xml
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.csprojResolveAssemblyReference.cache
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\Views\MainWindow.g.cs
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\App.g.cs
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication_MarkupCompile.cache
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication_MarkupCompile.lref
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\Views\MainWindow.baml
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.g.resources
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.Properties.Resources.resources
+C:\Users\sharun\Downloads\bakerProjects-master\CustomerApplication\CustomerApplication\obj\Debug\CustomerApplication.csproj.GenerateResource.Cache

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\BakerHughesServices\CustomerService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Customers.xml">
+      <publishTime>05/25/2018 07:21:10</publishTime>
+    </File>
+    <File Include="bin/CustomerService.dll">
+      <publishTime>05/25/2018 07:21:24</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/10/2013 00:34:28</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/10/2013 00:34:28</publishTime>
+    </File>
+    <File Include="Customers.xml">
+      <publishTime>05/25/2018 07:21:10</publishTime>
+    </File>
+    <File Include="CustomerService.svc">
+      <publishTime>05/23/2018 21:02:11</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/24/2018 08:26:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
